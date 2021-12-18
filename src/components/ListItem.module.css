@@ -1,0 +1,20 @@
+.list{
+    
+    margin-left: 40px;
+    
+    
+}
+.lis{
+    list-style-type: none;
+    
+}
+.lis li{
+    font-size: 30px;
+    cursor: pointer;
+    
+
+}
+/* .lis li:hover{
+    background-color: rgb(255, 255, 255);
+    transform:translateY(30%)
+} */
